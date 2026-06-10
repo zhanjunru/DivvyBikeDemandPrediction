@@ -1,0 +1,10 @@
+*.csv
+*.log
+*.tmp
+station_list.txt
+spark-warehouse/
+metastore_db/
+derby.log
+__pycache__/
+*.pyc
+pred_output.txt
